@@ -1,3 +1,6 @@
+<img width="125" height="125" alt="icon" style="border-radius: 50px;" src="https://github.com/user-attachments/assets/cd798e65-4fa0-46f6-bc3e-11dd0d8dc599" />
+
+
 # 💫 About Me:
 Re-learning programming and web development from scratch<br><br>
 ⭐ Let's be GitHub collab buddies: Connect with me for coordinated group projects!
@@ -28,7 +31,7 @@ Re-learning programming and web development from scratch<br><br>
 
 ### ✍️ Inspirational Quotes
 
-<p style="align: center; max-width: 500px;"> 
+<p style="align: center;" width="500px"> 
   <span style="color: pink;">"</span>There's a point, around the age of twenty, when you have to choose whether to be like everybody else the rest of your life, or to make a virtue of your peculiarities.<span style="color: pink;">"</span>
   <br> —— Ursula K. Le Guin 
 </p>
