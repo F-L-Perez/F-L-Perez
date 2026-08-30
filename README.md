@@ -46,9 +46,10 @@
 
 ### ✍️ Inspirational Quotes
 
-<p width="500px" align="center"> 
-  "There's a point, around the age of twenty, when you have to choose whether to be like everybody else the rest of your life, or to make a virtue of your peculiarities." —— Ursula K. Le Guin 
-</p>
+<div align="center" width="600">
+“When action grows unprofitable, gather information; when information grows unprofitable, sleep.” —— Ursula K. Le Guin <br/>
+“Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.” —— Dan Salomon
+</div>
 
 ---
 
