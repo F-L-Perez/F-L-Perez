@@ -3,14 +3,15 @@
 <img width="100%" height="20" alt="banner" src="https://github.com/user-attachments/assets/5cfa6e33-f11a-4c61-994e-ca2e29f1d261" />
 
 # 💫 About Me:
+<table>  
+  <tr>  
+    <td align="center" valign="middle" width="100%">  
 
-<div align="center" width="600">
-📖 Re-learning programming and web development from scratch.<br>
-⭐ Let's be GitHub collab buddies: Connect with me for coordinated group projects!
+    📖 Re-learning programming and web development from scratch.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/f-l-perez) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:franchescalperez@proton.me) 
-
-</div>
+  </td>
+  </tr>
+</table>
 
 # 💻 Tech Stack:
 
