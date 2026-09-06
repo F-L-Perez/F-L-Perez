@@ -33,30 +33,27 @@
 <tr>
 <td valign="middle">
 
-### Inspirational Quotes 
+### ✒️ Inspirational Quotes 
 
 - “When action grows unprofitable, gather information; when information grows unprofitable, sleep.” —— Ursula K. Le Guin
 <br>
 
 - “Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.” —— Dan Salomon
 
+<br/>
   
 </td>
 <td align="center" valign="middle">
     
-<a href="https://fra-ppe.top/" color="green">frappe.top</a>
-    
-<div align="center" width="250">
 <img width="100" alt="I support grass" src="https://github.com/user-attachments/assets/b7ea948d-0408-4069-80ce-15a2bf64d56b" />
 <img width="100" alt="I dream in HTML" src="https://github.com/user-attachments/assets/9f8de379-c3ab-4c1f-90bb-4b2f8b208a83" />
 
 <img width="100" alt="My computer gets me" src="https://github.com/user-attachments/assets/2e071b68-e73c-4dbb-9004-8de76e21d8c4" /> <img width="100" alt="I believe in me" src="https://github.com/user-attachments/assets/cb5bab0d-c1b7-44c9-83ef-64264f9187f6" />
 
-</div>
 </td>
   </tr>
   <tr>
-     <td valign="middle" align="center" colspan="2"> <small>  Fra·ppe 2026 | (Banner by Atey Ghailan) | Keep growing 🌿</small></td> 
+     <td valign="middle" align="center" colspan="2"> <small>🌿  <a href="<a href="https://fra-ppe.top/">Fra·ppe 2026</a> ☕💻 | (Banner by Atey Ghailan) | Keep growing 🌿</small></td> 
   </tr>
 </table>  
 
