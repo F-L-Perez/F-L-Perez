@@ -25,8 +25,9 @@
     
 ![](https://github-readme-stats.shion.dev/api?username=f-l-perez&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true) 
 
+<!--
 ![](https://camo.githubusercontent.com/8bd8941a77343d0e35ab09d1733fd7ee4dbf36ee6f13064a5f0785b812000144/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d2f3f757365723d662d6c2d706572657a267468656d653d6361747070756363696e5f6d6f63686126686964655f626f726465723d66616c7365)
-
+-->
 </td>
 </tr>  
 <tr>
