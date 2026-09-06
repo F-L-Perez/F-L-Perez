@@ -53,7 +53,7 @@
 </td>
   </tr>
   <tr>
-     <td valign="middle" align="center" colspan="2"> <small>🌿  <a href="<a href="https://fra-ppe.top/">Fra·ppe 2026</a> ☕💻 | (Banner by Atey Ghailan) | Keep growing 🌿</small></td> 
+     <td valign="middle" align="center" colspan="2"> <small>🌿  <a href="https://fra-ppe.top/">Fra·ppe 2026</a> ☕💻 | (Banner by Atey Ghailan) | Keep growing 🌿</small></td> 
   </tr>
 </table>  
 
